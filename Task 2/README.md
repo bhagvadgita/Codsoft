@@ -24,3 +24,11 @@ Before you begin, ensure you have met the following requirements:
 Python >= 3.6
 Required libraries: pandas, numpy, scikit-learn, matplotlib, Flask (for deployment)
 Sample credit card transaction dataset (not provided)
+
+Model
+
+Describe the selected machine learning model here. Include details about its architecture, hyperparameters, and training process.
+
+Evaluation
+
+Explain how the model's performance is evaluated. Mention metrics such as accuracy, precision, recall, F1-score, and ROC curve.
